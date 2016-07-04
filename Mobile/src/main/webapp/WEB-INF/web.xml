@@ -13,7 +13,8 @@
 	</listener>
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
-		<param-value>/WEB-INF/Dispatcher-servlet.xml</param-value>
+		<param-value>/WEB-INF/application-context.xml,
+		/WEB-INF/Dispatcher-servlet.xml</param-value>
 	</context-param>
 	<servlet-mapping>
 		<servlet-name>Dispatcher</servlet-name>

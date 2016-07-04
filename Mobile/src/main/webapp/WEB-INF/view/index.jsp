@@ -38,7 +38,7 @@ nav
 					<br />
 					<center>
 						<b>
-							<h2></h2><title="Mem&eacute;nto">Mem<span>é</span>nto</title></h2>
+							<h2><title="Mem&eacute;nto">Mem<span>é</span>nto</title></h2>
 						</b>
 					</center>
 				</h1>
